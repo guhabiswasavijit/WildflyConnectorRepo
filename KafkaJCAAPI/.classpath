@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/kafka-clients/3.2.1/kafka-clients-3.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/luben/zstd-jni/1.5.2-1/zstd-jni-1.5.2-1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar"/>
+</classpath>
